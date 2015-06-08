@@ -4,7 +4,7 @@ public class Test {
 		
 		System.out.println("Hello Wooooorld!");
 		
-		int i = 1+ 2;
+		int i = 1+ i;
 		
 		System.out.println(i);
 		
